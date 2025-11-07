@@ -1,4 +1,4 @@
-# 🔄 RoundRobin-CPU
+# 🔄 Quantum-CPU
 
 A C-based simulation of the Round Robin CPU scheduling algorithm, allowing users to visualize process scheduling and compute key performance metrics.
 
